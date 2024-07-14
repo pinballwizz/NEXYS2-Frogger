@@ -1,2 +1,4 @@
 # NEXYS2-Frogger
-Frogger Arcade synthesized on a Digilent NEXYS2-500 Dev Board. 
+![Model](NEXYS2-Frogger.jpg)
+
+Frogger Arcade synthesized on a Digilent NEXYS2-500 Dev Board.
